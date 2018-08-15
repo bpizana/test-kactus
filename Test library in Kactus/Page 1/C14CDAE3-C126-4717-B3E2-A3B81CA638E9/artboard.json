@@ -1,5 +1,5 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,8 +8,7 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 8,
-  "do_objectID": "CB7E44B5-2EBF-401D-882B-9FAF18768A77",
+  "do_objectID": "C14CDAE3-C126-4717-B3E2-A3B81CA638E9",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -22,13 +21,13 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 88,
+    "height": 89,
     "width": 89,
     "x": 431,
-    "y": 74
+    "y": 274
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -36,7 +35,6 @@
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,10 +46,18 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "0632C457-15BB-48FA-99D6-ADBE5E59075D"
+      "id": "072197C1-A494-449C-AA9D-F77DA7B0906E"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C26E9C1F-9C57-4565-810E-95F46E995630"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F7D02B3A-0BB2-42F2-BAD1-1448E7DC8C12"
     }
   ],
-  "name": "color / green",
+  "name": "Green guy",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -65,7 +71,6 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "CC5D2806-6EB7-4D15-86A1-57F2E38B59F1",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

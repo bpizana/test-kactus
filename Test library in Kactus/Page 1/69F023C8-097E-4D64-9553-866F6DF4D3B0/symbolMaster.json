@@ -8,8 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 11,
-  "do_objectID": "B5352A7E-773B-494E-9585-0B44BCD9AF95",
+  "changeIdentifier": 7,
+  "do_objectID": "69F023C8-097E-4D64-9553-866F6DF4D3B0",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -24,11 +24,11 @@
     "constrainProportions": false,
     "height": 88,
     "width": 89,
-    "x": 242,
+    "x": 809,
     "y": 74
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": true,
+  "hasClickThrough": false,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
@@ -48,10 +48,10 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "BF100AF9-B015-4E91-A9D7-2A357A34F463"
+      "id": "83E9B443-ED6E-45C3-A444-CE987E61DC71"
     }
   ],
-  "name": "color / red",
+  "name": "color / black",
   "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
@@ -65,7 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "8F568168-29F1-4E03-8D90-A6A0EA4B11AF",
+  "symbolID": "7CCCFF7C-AEBC-442F-BBFA-1ECED89B16B3",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
