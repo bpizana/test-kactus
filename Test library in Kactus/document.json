@@ -33,7 +33,7 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 522,
+        "changeIdentifier": 525,
         "do_objectID": "F844D17A-8C1E-4CF7-9149-409388C26BC8",
         "exportOptions": {
           "_class": "exportOptions",
@@ -332,9 +332,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.1882352941176471,
-                    "green": 0.2313725490196079,
-                    "red": 1
+                    "blue": 0.392156862745098,
+                    "green": 0.8509803921568627,
+                    "red": 0.2980392156862745
                   },
                   "fillType": 0,
                   "isEnabled": true,
@@ -387,7 +387,7 @@
           "red": 1
         },
         "booleanOperation": 0,
-        "changeIdentifier": 522,
+        "changeIdentifier": 525,
         "do_objectID": "F844D17A-8C1E-4CF7-9149-409388C26BC8",
         "exportOptions": {
           "_class": "exportOptions",
@@ -686,9 +686,9 @@
                   "color": {
                     "_class": "color",
                     "alpha": 1,
-                    "blue": 0.1882352941176471,
-                    "green": 0.2313725490196079,
-                    "red": 1
+                    "blue": 0.392156862745098,
+                    "green": 0.8509803921568627,
+                    "red": 0.2980392156862745
                   },
                   "fillType": 0,
                   "isEnabled": true,
