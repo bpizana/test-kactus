@@ -1,17 +1,18 @@
 {
-  "_class": "symbolMaster",
+  "_class": "artboard",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
     "blue": 1,
+    "do_objectID": "9A9A93A0-89D1-4FA4-84A2-A2D6D109E3D3",
     "green": 1,
     "red": 1
   },
   "booleanOperation": -1,
-  "changeIdentifier": 7,
-  "do_objectID": "B251C6E3-697B-4B7E-B4D1-0E1FD02615B9",
+  "do_objectID": "AF5DE392-B5E6-4574-949D-8F36D29FCE09",
   "exportOptions": {
     "_class": "exportOptions",
+    "do_objectID": "27E6D056-0D1B-4DFE-A182-524CEEB6916B",
     "exportFormats": [
     ],
     "includedLayerIds": [
@@ -22,21 +23,22 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
+    "do_objectID": "F79CB95B-F26C-4889-8D90-FBAC471EB594",
     "height": 88,
     "width": 89,
-    "x": 620,
+    "x": 809,
     "y": 74
   },
   "hasBackgroundColor": false,
-  "hasClickThrough": false,
+  "hasClickThrough": true,
   "horizontalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "E7487FCF-9598-4BBF-9945-9777E4CD4A0F",
     "guides": [
     ]
   },
   "includeBackgroundColorInExport": true,
-  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -48,11 +50,11 @@
   "layers": [
     {
       "class": "shapeGroup",
-      "id": "A68D1978-9489-4A64-8940-1B18239B7203"
+      "id": "83E9B443-ED6E-45C3-A444-CE987E61DC71"
     }
   ],
-  "name": "color / blue",
-  "nameIsFixed": true,
+  "name": "Artboard",
+  "nameIsFixed": false,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -60,15 +62,16 @@
   "shouldBreakMaskChain": true,
   "style": {
     "_class": "style",
+    "do_objectID": "EBD26E18-0EDA-4ECE-A205-AC82673251EC",
     "endMarkerType": 0,
     "miterLimit": 10,
     "startMarkerType": 0,
     "windingRule": 1
   },
-  "symbolID": "E25A3EF9-4E26-4DBB-A1B2-D44004A92237",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
+    "do_objectID": "E295048B-0919-4B9A-ADCD-CA89FA1E3F9A",
     "guides": [
     ]
   }
