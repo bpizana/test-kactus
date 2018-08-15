@@ -35,24 +35,24 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "AB1E882C-085E-433F-9E66-0AE530E60776"
+      "class": "symbolMaster",
+      "id": "B5352A7E-773B-494E-9585-0B44BCD9AF95"
     },
     {
-      "class": "artboard",
-      "id": "4D9CC01F-7E2A-4EA0-9757-E3E70B09780B"
+      "class": "symbolMaster",
+      "id": "CB7E44B5-2EBF-401D-882B-9FAF18768A77"
     },
     {
-      "class": "artboard",
-      "id": "70504744-BC10-484E-BC30-860D6701028A"
+      "class": "symbolMaster",
+      "id": "A4AA79BE-1966-4079-B530-633DDA69097F"
     },
     {
-      "class": "artboard",
-      "id": "AF5DE392-B5E6-4574-949D-8F36D29FCE09"
+      "class": "symbolMaster",
+      "id": "65318265-544A-4D80-B35E-106EDD1D0383"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "symbols",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,

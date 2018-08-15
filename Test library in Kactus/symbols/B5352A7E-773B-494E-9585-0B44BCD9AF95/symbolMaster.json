@@ -1,5 +1,5 @@
 {
-  "_class": "artboard",
+  "_class": "symbolMaster",
   "backgroundColor": {
     "_class": "color",
     "alpha": 1,
@@ -8,7 +8,8 @@
     "red": 1
   },
   "booleanOperation": -1,
-  "do_objectID": "AB1E882C-085E-433F-9E66-0AE530E60776",
+  "changeIdentifier": 7,
+  "do_objectID": "B5352A7E-773B-494E-9585-0B44BCD9AF95",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -35,6 +36,7 @@
     ]
   },
   "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
   "includeInCloudUpload": true,
   "isFixedToViewport": false,
   "isFlippedHorizontal": false,
@@ -49,8 +51,8 @@
       "id": "BF100AF9-B015-4E91-A9D7-2A357A34F463"
     }
   ],
-  "name": "Artboard",
-  "nameIsFixed": false,
+  "name": "color / red",
+  "nameIsFixed": true,
   "resizesContent": false,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -63,6 +65,7 @@
     "startMarkerType": 0,
     "windingRule": 1
   },
+  "symbolID": "8F568168-29F1-4E03-8D90-A6A0EA4B11AF",
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,
